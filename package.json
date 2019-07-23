@@ -2,7 +2,7 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "pratiklodha95.github.io",
+  "homepage": "https://pratiklodha95.github.io/website/",
   "dependencies": {
     "country-list": "^2.1.1",
     "gh-pages": "^2.0.1",
