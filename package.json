@@ -2,6 +2,7 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "pratiklodha95.github.io",
   "dependencies": {
     "country-list": "^2.1.1",
     "gh-pages": "^2.0.1",
@@ -10,12 +11,15 @@
     "react-dom": "^16.2.0",
     "react-ga": "^2.3.5",
     "react-jvectormap": "0.0.12",
-    "react-scripts": "1.0.17"
+    "react-scripts": "1.0.17",
+    "yarn": "^1.17.3"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   }
 }
