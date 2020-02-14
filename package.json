@@ -12,7 +12,7 @@
     "react-ga": "^2.3.5",
     "react-jvectormap": "0.0.12",
     "react-scripts": "1.0.17",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "start": "react-scripts start",
