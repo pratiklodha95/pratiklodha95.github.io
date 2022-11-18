@@ -11,7 +11,7 @@
     "react-dom": "^16.2.0",
     "react-ga": "^2.3.5",
     "react-jvectormap": "0.0.12",
-    "react-scripts": "1.0.17",
+    "react-scripts": "5.0.1",
     "yarn": "^1.17.3"
   },
   "scripts": {
